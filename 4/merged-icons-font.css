@@ -1,0 +1,263 @@
+i.eci { 
+display: block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+     }
+     .select2-container i.eci,
+     .elementor-icon-list-icon i.eci {
+       display: inline-block;
+     }
+     .elementor-icons-manager__tab__item__icon.eci {
+    font-size: 28px;
+}
+.elementor-icons-manager__tab-link i.eci {
+    display: inline-block;
+    font-size: 18px;
+}
+@font-face {
+ font-family: 'bag';
+  src: url('fontello-f31a75b7.zip/fontello-f31a75b7/font/bag.eot?1790420952');
+  src: url('fontello-f31a75b7.zip/fontello-f31a75b7/font/bag.eot?1790420952#iefix') format('embedded-opentype'),
+       url('fontello-f31a75b7.zip/fontello-f31a75b7/font/bag.woff2?1790420952') format('woff2'),
+       url('fontello-f31a75b7.zip/fontello-f31a75b7/font/bag.woff?1790420952') format('woff'),
+       url('fontello-f31a75b7.zip/fontello-f31a75b7/font/bag.ttf?1790420952') format('truetype'),
+       url('fontello-f31a75b7.zip/fontello-f31a75b7/font/bag.svg?1790420952#bag') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.bag-bag::before { content: '\e800'; font-family: 'bag'; }
+
+
+@font-face {
+ font-family: 'cart';
+  src: url('fontello-e7b9d5a3.zip/fontello-e7b9d5a3/font/cart.eot?675385597');
+  src: url('fontello-e7b9d5a3.zip/fontello-e7b9d5a3/font/cart.eot?675385597#iefix') format('embedded-opentype'),
+       url('fontello-e7b9d5a3.zip/fontello-e7b9d5a3/font/cart.woff2?675385597') format('woff2'),
+       url('fontello-e7b9d5a3.zip/fontello-e7b9d5a3/font/cart.woff?675385597') format('woff'),
+       url('fontello-e7b9d5a3.zip/fontello-e7b9d5a3/font/cart.ttf?675385597') format('truetype'),
+       url('fontello-e7b9d5a3.zip/fontello-e7b9d5a3/font/cart.svg?675385597#cart') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.cart-delivery::before { content: '\e800'; font-family: 'cart'; }
+
+
+@font-face {
+ font-family: 'dept';
+  src: url('fontello-57a80a37.zip/fontello-57a80a37/font/dept.eot?2036074076');
+  src: url('fontello-57a80a37.zip/fontello-57a80a37/font/dept.eot?2036074076#iefix') format('embedded-opentype'),
+       url('fontello-57a80a37.zip/fontello-57a80a37/font/dept.woff2?2036074076') format('woff2'),
+       url('fontello-57a80a37.zip/fontello-57a80a37/font/dept.woff?2036074076') format('woff'),
+       url('fontello-57a80a37.zip/fontello-57a80a37/font/dept.ttf?2036074076') format('truetype'),
+       url('fontello-57a80a37.zip/fontello-57a80a37/font/dept.svg?2036074076#dept') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.dept-bakery::before { content: '\e800'; font-family: 'dept'; }
+.eci.dept-cookingsschool::before { content: '\e801'; font-family: 'dept'; }
+.eci.dept-dairy::before { content: '\e802'; font-family: 'dept'; }
+.eci.dept-deli::before { content: '\e803'; font-family: 'dept'; }
+.eci.dept-floral::before { content: '\e804'; font-family: 'dept'; }
+.eci.dept-foodservice::before { content: '\e805'; font-family: 'dept'; }
+.eci.dept-giftcards::before { content: '\e806'; font-family: 'dept'; }
+.eci.dept-grocery::before { content: '\e807'; font-family: 'dept'; }
+.eci.dept-hbc::before { content: '\e808'; font-family: 'dept'; }
+.eci.dept-homegrown::before { content: '\e809'; font-family: 'dept'; }
+.eci.dept-lookaround_browse::before { content: '\e80a'; font-family: 'dept'; }
+.eci.dept-meat::before { content: '\e80b'; font-family: 'dept'; }
+.eci.dept-organic::before { content: '\e80c'; font-family: 'dept'; }
+.eci.dept-pet::before { content: '\e80d'; font-family: 'dept'; }
+.eci.dept-pharmacy::before { content: '\e80e'; font-family: 'dept'; }
+.eci.dept-produce::before { content: '\e80f'; font-family: 'dept'; }
+.eci.dept-seafood::before { content: '\e810'; font-family: 'dept'; }
+.eci.dept-setting::before { content: '\e811'; font-family: 'dept'; }
+.eci.dept-shoppinglist::before { content: '\e812'; font-family: 'dept'; }
+.eci.dept-wineandbeer::before { content: '\e813'; font-family: 'dept'; }
+
+
+@font-face {
+ font-family: 'updates';
+  src: url('fontello-3428503f.zip/fontello-3428503f/font/updates.eot?1862617296');
+  src: url('fontello-3428503f.zip/fontello-3428503f/font/updates.eot?1862617296#iefix') format('embedded-opentype'),
+       url('fontello-3428503f.zip/fontello-3428503f/font/updates.woff2?1862617296') format('woff2'),
+       url('fontello-3428503f.zip/fontello-3428503f/font/updates.woff?1862617296') format('woff'),
+       url('fontello-3428503f.zip/fontello-3428503f/font/updates.ttf?1862617296') format('truetype'),
+       url('fontello-3428503f.zip/fontello-3428503f/font/updates.svg?1862617296#updates') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.updates-catering::before { content: '\e800'; font-family: 'updates'; }
+.eci.updates-kosher::before { content: '\e801'; font-family: 'updates'; }
+
+
+@font-face {
+ font-family: 'april_updates';
+  src: url('fontello-c9cc77da.zip/fontello-c9cc77da/font/april_updates.eot?1583304734');
+  src: url('fontello-c9cc77da.zip/fontello-c9cc77da/font/april_updates.eot?1583304734#iefix') format('embedded-opentype'),
+       url('fontello-c9cc77da.zip/fontello-c9cc77da/font/april_updates.woff2?1583304734') format('woff2'),
+       url('fontello-c9cc77da.zip/fontello-c9cc77da/font/april_updates.woff?1583304734') format('woff'),
+       url('fontello-c9cc77da.zip/fontello-c9cc77da/font/april_updates.ttf?1583304734') format('truetype'),
+       url('fontello-c9cc77da.zip/fontello-c9cc77da/font/april_updates.svg?1583304734#april_updates') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.april_updates-lock::before { content: '\e800'; font-family: 'april_updates'; }
+.eci.april_updates-tellus::before { content: '\e801'; font-family: 'april_updates'; }
+
+
+@font-face {
+ font-family: 'april_updates2';
+  src: url('fontello-7d01d30b.zip/fontello-7d01d30b/font/april_updates2.eot?1238493820');
+  src: url('fontello-7d01d30b.zip/fontello-7d01d30b/font/april_updates2.eot?1238493820#iefix') format('embedded-opentype'),
+       url('fontello-7d01d30b.zip/fontello-7d01d30b/font/april_updates2.woff2?1238493820') format('woff2'),
+       url('fontello-7d01d30b.zip/fontello-7d01d30b/font/april_updates2.woff?1238493820') format('woff'),
+       url('fontello-7d01d30b.zip/fontello-7d01d30b/font/april_updates2.ttf?1238493820') format('truetype'),
+       url('fontello-7d01d30b.zip/fontello-7d01d30b/font/april_updates2.svg?1238493820#april_updates2') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.april_updates2-frozen::before { content: '\e800'; font-family: 'april_updates2'; }
+.eci.april_updates2-pics::before { content: '\e801'; font-family: 'april_updates2'; }
+
+
+@font-face {
+ font-family: 'rx';
+  src: url('fontello-716be6d0.zip/fontello-716be6d0/font/rx.eot?1043981765');
+  src: url('fontello-716be6d0.zip/fontello-716be6d0/font/rx.eot?1043981765#iefix') format('embedded-opentype'),
+       url('fontello-716be6d0.zip/fontello-716be6d0/font/rx.woff2?1043981765') format('woff2'),
+       url('fontello-716be6d0.zip/fontello-716be6d0/font/rx.woff?1043981765') format('woff'),
+       url('fontello-716be6d0.zip/fontello-716be6d0/font/rx.ttf?1043981765') format('truetype'),
+       url('fontello-716be6d0.zip/fontello-716be6d0/font/rx.svg?1043981765#rx') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.rx-rx::before { content: '\e800'; font-family: 'rx'; }
+
+
+@font-face {
+ font-family: 'diabetes';
+  src: url('fontello-6a35ce43.zip/fontello-6a35ce43/font/diabetes.eot?779884088');
+  src: url('fontello-6a35ce43.zip/fontello-6a35ce43/font/diabetes.eot?779884088#iefix') format('embedded-opentype'),
+       url('fontello-6a35ce43.zip/fontello-6a35ce43/font/diabetes.woff2?779884088') format('woff2'),
+       url('fontello-6a35ce43.zip/fontello-6a35ce43/font/diabetes.woff?779884088') format('woff'),
+       url('fontello-6a35ce43.zip/fontello-6a35ce43/font/diabetes.ttf?779884088') format('truetype'),
+       url('fontello-6a35ce43.zip/fontello-6a35ce43/font/diabetes.svg?779884088#diabetes') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.diabetes-diabetes::before { content: '\e800'; font-family: 'diabetes'; }
+
+
+@font-face {
+ font-family: 'immun';
+  src: url('fontello-1d0f6a24.zip/fontello-1d0f6a24/font/immun.eot?2092877493');
+  src: url('fontello-1d0f6a24.zip/fontello-1d0f6a24/font/immun.eot?2092877493#iefix') format('embedded-opentype'),
+       url('fontello-1d0f6a24.zip/fontello-1d0f6a24/font/immun.woff2?2092877493') format('woff2'),
+       url('fontello-1d0f6a24.zip/fontello-1d0f6a24/font/immun.woff?2092877493') format('woff'),
+       url('fontello-1d0f6a24.zip/fontello-1d0f6a24/font/immun.ttf?2092877493') format('truetype'),
+       url('fontello-1d0f6a24.zip/fontello-1d0f6a24/font/immun.svg?2092877493#immun') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.immun-immun::before { content: '\e800'; font-family: 'immun'; }
+
+
+@font-face {
+ font-family: 'spec_pharm';
+  src: url('fontello-c1f6a3ab.zip/fontello-c1f6a3ab/font/spec_pharm.eot?1136256666');
+  src: url('fontello-c1f6a3ab.zip/fontello-c1f6a3ab/font/spec_pharm.eot?1136256666#iefix') format('embedded-opentype'),
+       url('fontello-c1f6a3ab.zip/fontello-c1f6a3ab/font/spec_pharm.woff2?1136256666') format('woff2'),
+       url('fontello-c1f6a3ab.zip/fontello-c1f6a3ab/font/spec_pharm.woff?1136256666') format('woff'),
+       url('fontello-c1f6a3ab.zip/fontello-c1f6a3ab/font/spec_pharm.ttf?1136256666') format('truetype'),
+       url('fontello-c1f6a3ab.zip/fontello-c1f6a3ab/font/spec_pharm.svg?1136256666#spec_pharm') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.spec_pharm-specialtypharm::before { content: '\e800'; font-family: 'spec_pharm'; }
+
+
+@font-face {
+ font-family: 'iconupdates';
+  src: url('fontello-5e909656.zip/fontello-5e909656/font/iconupdates.eot?1188390237');
+  src: url('fontello-5e909656.zip/fontello-5e909656/font/iconupdates.eot?1188390237#iefix') format('embedded-opentype'),
+       url('fontello-5e909656.zip/fontello-5e909656/font/iconupdates.woff2?1188390237') format('woff2'),
+       url('fontello-5e909656.zip/fontello-5e909656/font/iconupdates.woff?1188390237') format('woff'),
+       url('fontello-5e909656.zip/fontello-5e909656/font/iconupdates.ttf?1188390237') format('truetype'),
+       url('fontello-5e909656.zip/fontello-5e909656/font/iconupdates.svg?1188390237#iconupdates') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.iconupdates-baby::before { content: '\e800'; font-family: 'iconupdates'; }
+.eci.iconupdates-contactus::before { content: '\e801'; font-family: 'iconupdates'; }
+.eci.iconupdates-calendar::before { content: '\e802'; font-family: 'iconupdates'; }
+.eci.iconupdates-faq::before { content: '\e803'; font-family: 'iconupdates'; }
+.eci.iconupdates-privateevent::before { content: '\e804'; font-family: 'iconupdates'; }
+
+
+@font-face {
+ font-family: 'juneupdates';
+  src: url('fontello-bf75007b.zip/fontello-bf75007b/font/juneupdates.eot?531596022');
+  src: url('fontello-bf75007b.zip/fontello-bf75007b/font/juneupdates.eot?531596022#iefix') format('embedded-opentype'),
+       url('fontello-bf75007b.zip/fontello-bf75007b/font/juneupdates.woff2?531596022') format('woff2'),
+       url('fontello-bf75007b.zip/fontello-bf75007b/font/juneupdates.woff?531596022') format('woff'),
+       url('fontello-bf75007b.zip/fontello-bf75007b/font/juneupdates.ttf?531596022') format('truetype'),
+       url('fontello-bf75007b.zip/fontello-bf75007b/font/juneupdates.svg?531596022#juneupdates') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.juneupdates-advecoupons::before { content: '\e800'; font-family: 'juneupdates'; }
+.eci.juneupdates-bloodpresure::before { content: '\e801'; font-family: 'juneupdates'; }
+.eci.juneupdates-helpwithmedicare::before { content: '\e802'; font-family: 'juneupdates'; }
+.eci.juneupdates-healthandwellness::before { content: '\e803'; font-family: 'juneupdates'; }
+.eci.juneupdates-newitem::before { content: '\e804'; font-family: 'juneupdates'; }
+.eci.juneupdates-inourcommunity::before { content: '\e805'; font-family: 'juneupdates'; }
+
+
+@font-face {
+ font-family: 'new_item';
+  src: url('fontello-a3b5bd72.zip/fontello-a3b5bd72/font/new_item.eot?526471041');
+  src: url('fontello-a3b5bd72.zip/fontello-a3b5bd72/font/new_item.eot?526471041#iefix') format('embedded-opentype'),
+       url('fontello-a3b5bd72.zip/fontello-a3b5bd72/font/new_item.woff2?526471041') format('woff2'),
+       url('fontello-a3b5bd72.zip/fontello-a3b5bd72/font/new_item.woff?526471041') format('woff'),
+       url('fontello-a3b5bd72.zip/fontello-a3b5bd72/font/new_item.ttf?526471041') format('truetype'),
+       url('fontello-a3b5bd72.zip/fontello-a3b5bd72/font/new_item.svg?526471041#new_item') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.new_item-newitem::before { content: '\e800'; font-family: 'new_item'; }
+
+
+@font-face {
+ font-family: 'pharmacy';
+  src: url('fontello-5e8560c4.zip/fontello-5e8560c4/font/pharmacy.eot?70220176');
+  src: url('fontello-5e8560c4.zip/fontello-5e8560c4/font/pharmacy.eot?70220176#iefix') format('embedded-opentype'),
+       url('fontello-5e8560c4.zip/fontello-5e8560c4/font/pharmacy.woff2?70220176') format('woff2'),
+       url('fontello-5e8560c4.zip/fontello-5e8560c4/font/pharmacy.woff?70220176') format('woff'),
+       url('fontello-5e8560c4.zip/fontello-5e8560c4/font/pharmacy.ttf?70220176') format('truetype'),
+       url('fontello-5e8560c4.zip/fontello-5e8560c4/font/pharmacy.svg?70220176#pharmacy') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.pharmacy-pharmacy::before { content: '\e800'; font-family: 'pharmacy'; }
+
+
+@font-face {
+ font-family: 'sp_pharmacy';
+  src: url('fontello-c4895a16.zip/fontello-c4895a16/font/sp_pharmacy.eot?650463229');
+  src: url('fontello-c4895a16.zip/fontello-c4895a16/font/sp_pharmacy.eot?650463229#iefix') format('embedded-opentype'),
+       url('fontello-c4895a16.zip/fontello-c4895a16/font/sp_pharmacy.woff2?650463229') format('woff2'),
+       url('fontello-c4895a16.zip/fontello-c4895a16/font/sp_pharmacy.woff?650463229') format('woff'),
+       url('fontello-c4895a16.zip/fontello-c4895a16/font/sp_pharmacy.ttf?650463229') format('truetype'),
+       url('fontello-c4895a16.zip/fontello-c4895a16/font/sp_pharmacy.svg?650463229#sp_pharmacy') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.sp_pharmacy-manufactures::before { content: '\e800'; font-family: 'sp_pharmacy'; }
+.eci.sp_pharmacy-patients::before { content: '\e801'; font-family: 'sp_pharmacy'; }
+.eci.sp_pharmacy-payers::before { content: '\e802'; font-family: 'sp_pharmacy'; }
+.eci.sp_pharmacy-welcome::before { content: '\e803'; font-family: 'sp_pharmacy'; }
+
+
